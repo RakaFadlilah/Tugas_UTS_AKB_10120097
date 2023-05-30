@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.fragment.ProfileFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:id="@+id/profileImageView"
+            android:layout_width="250dp"
+            android:layout_height="400dp"
+            android:src="@drawable/raka"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/txt_intro"
+            android:layout_width="302dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:elevation="12dp"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="P R O F I L"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_nim"
+            android:layout_width="302dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:elevation="12dp"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="@string/nim"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_nama"
+            android:layout_width="302dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:elevation="12dp"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="@string/nama"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_kelas"
+            android:layout_width="302dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:elevation="12dp"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="@string/kelas"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt_intro"
+            android:layout_width="302dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:elevation="12dp"
+            android:gravity="center_horizontal"
+            android:padding="10dp"
+            android:text="rakafadlilah210602@gmail.com"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</RelativeLayout>

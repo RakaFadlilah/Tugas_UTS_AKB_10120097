@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tugas_UTS_AKB_10120097</string>
+    <string name="profil">Profil</string>
+    <string name="catat">Catatan</string>
+    <string name="info">Info</string>
+    <string name="nama">Raka Fadlilah</string>
+    <string name="kelas">IF-3</string>
+    <string name="nim">10120097</string>
+    <string name="email">Rakafadlilah210602@gmail.com</string>
+    <string name="txt_welcome"></string>
+    <string name="judul">Judul</string>
+    <string name="desc">Tulis Catatan</string>
+    <string name="btnSimpan">SIMPAN</string>
+    <string name="btnHapus">HAPUS</string>
+    <string name="txt_intro">Tugas Pengganti UTS AKB </string>
+    <string name="page1">Page 1 of 2</string>
+    <string name="page2">Page 2 of 2</string>
+    <string name="page3">Page 3 of 3</string>
+    <string name="memo">Aplikasi Catatan Harian</string>
+    <string name="penjelasan"></string>
+    <string name="txt_add">Catatan Harian</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
